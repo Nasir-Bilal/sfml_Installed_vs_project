@@ -1,6 +1,10 @@
-# SFML Collision Game
+# SFML Installed Visual Studio Project 
 
-Welcome to the SFML Collision Game! This project features a simple game implemented using the SFML library, where you control a red square that can move around the screen while avoiding a static blue square.
+This project features a simple game implemented using the SFML library, where you control a red square that can move around the screen while avoiding a static blue square.
+
+## Getting Started
+
+I have created this repository so that you don't have to install SFML separately. Everything you need is included in the repo. Just follow the instructions below to get started.
 
 ## Features
 
@@ -9,9 +13,6 @@ Welcome to the SFML Collision Game! This project features a simple game implemen
 - **Collision Detection**: Prevents the red square from passing through the blue square or moving outside the window boundaries.
 - **Window Size**: The game window is sized at 1000x500.
 
-## Getting Started
-
-I have created this repository so that you don't have to install SFML separately. Everything you need is included in the repo. Just follow the instructions below to get started.
 
 ### Prerequisites
 
